@@ -1,7 +1,7 @@
 ### HIMS-specific ignores ###
 # From the /scripts/app folder and down, we only want to track TypeScript files
-**/Web/scripts/app/**/*.js
-**/Web/scripts/app/**/*.js.map
+**/scripts/app/**/*.js
+**/scripts/app/**/*.js.map
 
 # StyleCop cache
 StyleCop.Cache
